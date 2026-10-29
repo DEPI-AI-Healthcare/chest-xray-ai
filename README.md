@@ -45,3 +45,17 @@ chest-xray-ai/
 ├── src/              # Core configuration files (config.py)
 ├── .gitignore        # Git ignore configurations
 └── README.md         # Project documentation
+
+👥 Team & Contributors
+Tech Lead: Ereny Habib
+
+AI & Deep Learning Engineers
+
+NLP & RAG Engineers
+
+Backend & Mobile Developers
+
+---
+## 📦 Full Dataset Access
+You can access and download the complete normalized chest X-ray images and dataset files via our shared Google Drive link:
+👉 [InnoTech Full Dataset (Google Drive)](https://drive.google.com/drive/folders/1scUXXUmXp3qK9Xfbn4icefYhZhrnq-J1?usp=sharing)
