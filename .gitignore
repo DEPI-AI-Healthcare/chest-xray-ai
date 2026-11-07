@@ -4,6 +4,7 @@ models/*
 *.pth
 *.h5
 *.pt
+*.keras
 *.zip
 .env
 __pycache__/
